@@ -21,7 +21,6 @@ ENV/
 # Docker and DevContainer artifacts
 *.db
 *.sqlite
-.devcontainer/
 
 # Editor-specific files
 .vscode/
